@@ -1,0 +1,439 @@
+1,Missing,1982,0,122,0,"Drama, History, Mystery",Costa-Gavras
+2,Amadeus,1984,0,160,0,"Biography, Drama, History",Milos Forman
+3,The Mission,1986,0,125,0,"Adventure, Drama, History",Roland Joff\xc3\xa9
+4,Broadcast News,1987,0,133,0,"Comedy, Drama, Romance",James L. Brooks
+5,Born on the Fourth of July,1989,0,145,0,"Biography, Drama, War",Oliver Stone
+6,The Godfather,1972,0,175,0,"Crime, Drama",Francis Ford Coppola
+7,The Godfather: Part II,1974,1,202,0,"Crime, Drama",Francis Ford Coppola
+8,The Godfather: Part III,1990,1,162,0,"Crime, Drama",Francis Ford Coppola
+9,Unforgiven,1992,0,131,0,Western,Clint Eastwood
+10,Schindler's List,1993,0,195,0,"Biography, Drama, History",Steven Spielberg
+11,Fargo,1996,0,98,0,"Crime, Drama, Thriller","Joel Coen, Ethan Coen"
+12,L. A. Confidential,1997,0,138,0,"Crime, Drama, Mystery",Curtis Hanson
+13,Gladiator,2000,0,155,0,"Action, Drama",Ridley Scott
+14,Gosford Park,2001,0,131,0,"Drama, Mystery",Robert Altman
+15,Master and Commander: The Far Side of the World,2003,0,138,0,"Action, Adventure, Drama",Peter Weir
+16,The Pianist,2002,0,150,0,"Biography, Drama, War",Roman Polanski
+17,The Hours,2002,0,114,0,Drama,Stephen Daldry
+18,"Good Night, and Good Luck",2005,0,93,0,"Biography, Drama, History",George Clooney
+19,Munich,2005,0,164,0,"Drama, History, Thriller",Steven Spielberg
+20,The Queen,2006,0,103,0,"Biography, Drama",Stephen Frears
+21,No Country for Old Men,2007,0,122,0,"Crime, Drama, Thriller","Ethan Coen, Joel Coen"
+22,Slumdog Millionaire,2008,0,120,0,"Drama, Romance","Danny Boyle, Loveleen Tandan"
+23,Frost/Nixon,2008,0,122,0,"Drama, History",Ron Howard
+24,The Hurt Locker,2008,0,131,0,"Drama, History, Thriller",Kathryn Bigelow
+25,District 9,2009,0,112,0,"Action, Sci-Fi",Neill Blomkamp
+26,Inglourious Basterds,2009,0,153,0,"Adventure, Drama, War","Quentin Tarantino, Eli Roth"
+27,The Artist,2011,0,100,0,"Comedy, Drama, Romance",Michel Hazanavicius
+28,The Help,2011,0,146,0,Drama,Tate Taylor
+29,Lincoln,2012,0,150,0,"Biography, Drama, History",Steven Spielberg
+30,12 years a Slave,2013,0,134,0,"Biography, Drama, History",Steve McQueen
+31,American Sniper,2014,0,133,0,"Action, Biography, Drama",Clint Eastwood
+32,Boyhood,2014,0,165,0,Drama,Richard Linklater
+33,The Imitation Game,2014,0,114,0,"Biography, Drama, Thriller",Morten Tyldum
+34,The Theory of Everything,2014,0,123,0,"Biography, Drama, Romance",James Marsh
+35,Selma,2014,0,128,0,"Biography, Drama, History",Ava DuVernay
+36,Donnie Brasco,1997,0,127,0,"Biography, Crime, Drama",Mike Newell
+37,"O Brother, Where Art Thou?",2000,0,106,0,"Adventure, Comedy, Crime","Joel Coen, Ethan Coen"
+38,Children of men,2006,0,109,0,"Drama, Sci-Fi, Thriller",Alfonso Cuar\xc3\xb3n
+39,Social Network,2010,0,120,0,"Biography, Drama",David Fincher
+40,Treasure Planet,2002,0,95,0,"Animation, Adventure, Family","Ron Clements, John Musker"
+41,Persepolis,2007,0,96,0,"Animation, Biography, Drama","Vincent Paronnaud, Marjane Satrapi"
+42,WALL-E,2008,0,98,0,"Short, Comedy",Doug Walker
+43,Princess and the Frog,2009,0,97,0,Family,William Butler
+44,Wreck-It Ralph,2012,0,101,0,"Animation, Adventure, Comedy",Rich Moore
+45,...and justice for all.,1979,0,119,0,"Crime, Drama, Thriller",Norman Jewison
+46,Brazil,1985,0,132,0,"Drama, Sci-Fi",Terry Gilliam
+47,Braveheart,1995,0,178,0,"Biography, Drama, History",Mel Gibson
+48,The Barbarian Invasions,2003,0,99,0,"Comedy, Crime, Drama",Denys Arcand
+49,Michael Clayton,2007,0,119,0,"Crime, Drama, Mystery",Tony Gilroy
+50,In Bruges,2008,0,107,0,"Comedy, Crime, Drama",Martin McDonagh
+51,Moonrise Kingdom,2012,0,94,0,"Adventure, Comedy, Drama",Wes Anderson
+52,Day for Night,1973,0,115,0,"Comedy, Drama, Romance",Fran\xc3\xa7ois Truffaut
+53,Kagemusha,1980,0,162,0,"Drama, History, War",Akira Kurosawa
+54,The Passion of the Christ,2004,0,127,0,Drama,Mel Gibson
+55,Schtonk,1992,0,115,0,Comedy,Helmut Dietl
+56,Musime si pomahat,2000,0,117,0,"Comedy, Drama, War",Jan Hrebejk
+57,No Man's Land,2001,0,98,0,"Drama, War",Danis Tanovic
+58,A Prophet,2009,0,155,0,"Crime, Drama",Jacques Audiard
+59,La Haine,1995,0,98,0,"Crime, Drama",Mathieu Kassovitz
+60,Jodaeiye Nader az Simin,2011,0,123,0,"Drama, Mystery",Asghar Farhadi
+61,Raging Bull,1980,0,129,0,"Biography, Drama, Sport",Martin Scorsese
+62,Ran,1985,0,162,0,"Action, Drama",Akira Kurosawa
+63,Serpico,1973,0,130,0,"Biography, Crime, Drama",Sidney Lumet
+64,Chinatown,1974,0,130,0,"Drama, Mystery, Thriller",Roman Polanski
+65,Sling Blade,1996,0,135,0,Drama,Billy Bob Thornton
+66,Training Day,2001,0,122,0,"Crime, Drama, Thriller",Antoine Fuqua
+67,Casino,1995,0,178,0,"Biography, Crime, Drama",Martin Scorsese
+68,Requiem for a Dream,2000,0,102,0,Drama,Darren Aronofsky
+69,21 grams,2003,0,124,0,Drama,Alejandro G. I\xc3\xb1\xc3\xa1rritu
+70,Kramer vs. Kramer,1979,0,105,0,"Drama, Romance",Robert Benton
+71,Apocalypse Now,1979,0,153,0,"Drama, War",Francis Ford Coppola
+72,Dead Poets Society,1989,0,128,0,"Comedy, Drama",Peter Weir
+73,My Left Foot,1989,0,103,0,"Biography, Drama",Jim Sheridan
+74,Dances with Wolves,1990,0,181,0,"Adventure, Drama, Western",Kevin Costner
+75,JFK,1991,0,189,0,"Drama, History, Thriller",Oliver Stone
+76,Scent of a Woman,1992,0,156,0,Drama,Martin Brest
+77,In the Name of the Father,1993,0,133,0,"Biography, Drama, History",Jim Sheridan
+78,Quiz Show,1994,0,133,0,"Drama, History",Robert Redford
+79,The Shanwshank Redemption,1994,0,142,0,"Crime, Drama",Frank Darabont
+80,Good Will Hunting,1997,0,126,0,Drama,Gus Van Sant
+81,Saving Private Ryan,1998,0,169,0,"Action, Drama, War",Steven Spielberg
+82,"Crouching Tiger, Hidden Dragon",2000,0,120,0,"Action, Drama, Romance",Ang Lee
+83,The Aviator,2004,0,170,0,"Biography, Drama",Martin Scorsese
+84,Brokeback Mountain,2005,0,134,0,"Drama, Romance",Ang Lee
+85,Flags of Our Fathers,2006,0,135,0,"Drama, History, War",Clint Eastwood
+86,Letters from Iwo Jima,2006,1,141,0,"Drama, History, War",Clint Eastwood
+87,There Will Be Blood,2007,0,158,0,Drama,Paul Thomas Anderson
+88,Winter's Bone,2010,0,100,0,Drama,Debra Granik
+89,Life of Pi,2012,0,127,0,"Adventure, Drama, Fantasy",Ang Lee
+90,Dallas Buyers Club,2013,0,117,0,"Biography, Drama",Jean-Marc Vall\xc3\xa9e
+91,Philomena,2013,0,98,0,"Biography, Drama",Stephen Frears
+92,The Wolf of Well Street,2013,0,42,0,Comedy,Mike Stoklasa
+93,Wag the Dog,1997,0,97,0,"Comedy, Drama",Barry Levinson
+94,The Ides of march),2011,0,101,0,Drama,George Clooney
+95,Tinker Tailor Soldier Spy,2011,0,127,0,"Drama, Mystery, Thriller",Tomas Alfredson
+96,Song of the Sea,2014,0,93,0,"Animation, Family, Fantasy",Tomm Moore
+97,The Tale of the Princess Kaguya,2014,0,137,0,"Animation, Drama, Fantasy",Isao Takahata
+98,Five Easy Pieces,1970,0,98,0,Drama,Bob Rafelson
+99,Dog Day Afternoon,1975,0,125,0,"Crime, Drama",Sidney Lumet
+100,Harry and Tonto,1974,0,115,0,"Adventure, Comedy, Drama",Paul Mazursky
+101,Network,1976,0,121,0,Drama,Sidney Lumet
+102,China Syndrome,1979,0,122,0,"Drama, Thriller",James Bridges
+103,My American Uncle,1980,0,125,0,"Comedy, Drama, Romance",Alain Resnais
+104,The Fisher King,1991,0,137,0,"Comedy, Drama",Terry Gilliam
+105,Heavenly Creatures,1994,0,99,0,"Biography, Crime, Drama",Peter Jackson
+106,Hotel Rwanda,2004,0,121,0,"Drama, History, War",Terry George
+107,Lars and the Real Girl,2007,0,106,0,"Comedy, Drama",Craig Gillespie
+108,Catch me if you can,2002,0,141,0,"Biography, Crime, Drama",Steven Spielberg
+109,Investigation of a Citizen Above Suspicion,1970,0,112,0,"Crime, Drama",Elio Petri
+110,Dodes'ka-den,1970,0,140,0,Drama,Akira Kurosawa
+111,Potop,1974,0,315,0,"Adventure, History, Romance",Jerzy Hoffman
+112,Dersu Uzala,1975,0,144,0,"Adventure, Biography, Drama",Akira Kurosawa
+113,Promised land,1975,0,106,0,Drama,Gus Van Sant
+114,Colonel Redl,1985,0,144,0,"Biography, Drama, History",Istv\xc3\xa1n Szab\xc3\xb3
+115,Vesnicko ma strediskova,1985,0,98,0,Comedy,Jir\xc3\xad Menzel
+116,Babette's Feast,1987,0,102,0,"Comedy, Drama, Music",Gabriel Axel
+117,Pelle the Conqueror,1988,0,157,0,Drama,Bille August
+118,Salaam Bombay!,1988,0,113,0,"Crime, Drama",Mira Nair
+119,Women on the Verge of a Nervous Breakdown,1988,0,90,0,"Comedy, Drama",Pedro Almod\xc3\xb3var
+120,Cinema Paradiso,1988,0,155,0,Drama,Giuseppe Tornatore
+121,Journey of Hope,1990,0,110,0,Drama,Xavier Koller
+122,Children of Nature,1991,0,82,0,"Drama, Romance",Fri\xc3\xb0rik \xc3\x9e\xc3\xb3r Fri\xc3\xb0riksson
+123,Elementary School,1991,0,30,0,Family,Jan Sver\xc3\xa1k
+124,Raise the Red Lantern,1991,0,125,0,Drama,Yimou Zhang
+125,Close to Eden,1992,0,119,0,Drama,Nikita Mikhalkov
+126,Farewell My Concubine,1993,0,171,0,"Drama, Music, Romance",Chen Kaige
+127,Antonia's Line,1995,0,102,0,"Comedy, Drama",Marleen Gorris
+128,Kolya,1996,0,105,0,"Comedy, Drama, Music",Jan Sver\xc3\xa1k
+129,Prisoner of the Mountains,1996,0,99,0,"Drama, War",Sergey Bodrov
+130,The Thief,1997,0,96,0,Drama,Pavel Chukhray
+131,Children of Heaven,1998,0,89,0,"Drama, Family",Majid Majidi
+132,All About My Mother,1999,0,101,0,Drama,Pedro Almod\xc3\xb3var
+133,"Crouching Tiger, Hidden Dragon: Sword of Destiny",2016,0,96,0,"Action, Adventure, Drama",Woo-Ping Yuen
+134,Elling,2001,0,89,0,"Comedy, Drama",Petter N\xc3\xa6ss
+135,Evil,2003,0,113,0,Drama,Mikael H\xc3\xa5fstr\xc3\xb6m
+136,The Sea Inside,2004,0,125,0,"Biography, Drama, Romance",Alejandro Amen\xc3\xa1bar
+137,Joyeux Noel,2005,0,116,0,"Drama, History, Music",Christian Carion
+138,Pan's Labyrinth,2006,0,118,0,"Drama, Fantasy, War",Guillermo del Toro
+139,The Secret in Their Eyes,2009,0,129,0,"Drama, Mystery, Thriller",Juan Jos\xc3\xa9 Campanella
+140,The Hunt,2012,0,115,0,Drama,Thomas Vinterberg
+141,Leviathan,2014,0,140,0,Drama,Andrey Zvyagintsev
+142,Tangerines,2013,0,87,0,"Drama, War",Zaza Urushadze
+143,Wild Tales,2014,0,122,0,"Comedy, Drama, Thriller",Dami\xc3\xa1n Szifr\xc3\xb3n
+144,The Last Emperor,1987,0,163,0,"Biography, Drama, History",Bernardo Bertolucci
+145,Vera Drake,2004,0,125,0,"Crime, Drama",Mike Leigh
+146,Sleuth,1972,0,138,0,"Mystery, Thriller",Joseph L. Mankiewicz
+147,The Ruling Class,1972,0,154,0,"Comedy, Drama, Musical",Peter Medak
+148,Being There,1979,0,130,0,"Comedy, Drama",Hal Ashby
+149,Malcolm X,1992,0,202,0,"Biography, Drama, History",Spike Lee
+150,I am Sam,2001,0,132,0,Drama,Jessie Nelson
+151,Sophie's Choice,1982,0,150,0,"Drama, Romance",Alan J. Pakula
+152,The Trip to Bountiful,1985,0,108,0,Drama,Peter Masterson
+153,Rocky,1976,0,120,0,"Drama, Sport",John G. Avildsen
+154,Rocky II,1979,1,119,0,"Drama, Sport",Sylvester Stallone
+155,Rocky III,1982,1,99,0,"Drama, Sport",Sylvester Stallone
+156,Rocky IV,1985,1,91,0,"Drama, Sport",Sylvester Stallone
+157,Rocky V,1990,1,104,0,"Drama, Sport",John G. Avildsen
+158,Rocky Balboa,2006,1,102,0,"Drama, Sport",Sylvester Stallone
+159,Creed,2015,1,133,0,"Drama, Sport",Ryan Coogler
+160,Joy,2015,0,124,0,"Biography, Comedy, Drama",David O. Russell
+161,The Martian,2015,0,144,0,"Adventure, Drama, Sci-Fi",Ridley Scott
+162,Room,2015,0,118,0,Drama,Lenny Abrahamson
+163,Spotlight,2015,0,128,0,"Biography, Drama, History",Tom McCarthy
+164,Big Short,2015,0,130,0,"Biography, Comedy, Drama",Adam McKay
+165,The Hateful Eight,2015,0,187,0,"Crime, Drama, Mystery",Quentin Tarantino
+166,Steve Jobs,2015,0,122,0,"Biography, Drama",Danny Boyle
+167,Ex Machina,2015,0,108,0,"Drama, Mystery, Sci-Fi",Alex Garland
+169,Hundraaringen som klev ut genom fonstret och forsvann,2013,0,114,0,"Adventure, Comedy",Felix Herngren
+170,Cinderella,2015,0,105,0,"Drama, Family, Fantasy",Kenneth Branagh
+171,Lady and the Tramp,1955,0,76,0,"Animation, Adventure, Comedy","Clyde Geronimi, Wilfred Jackson, Hamilton Luske"
+172,One Hundred and One Dalmatians,1961,0,25,0,"Animation, Adventure, Comedy",Jakob Stegelmann
+173,Alice in Wonderland,1951,0,75,0,"Animation, Adventure, Family","Clyde Geronimi, Wilfred Jackson, Hamilton Luske, Jack Kinney"
+174,The Jungle Book,1967,0,78,0,"Animation, Adventure, Comedy",Wolfgang Reitherman
+175,Petar Pan,1953,0,77,0,Comedy,"Clyde Geronimi, Wilfred Jackson, Hamilton Luske"
+176,Dumbo,1941,0,64,0,"Animation, Drama, Family","Samuel Armstrong, Norman Ferguson, Wilfred Jackson, Jack Kinney, Bill Roberts, Ben Sharpsteen, John Elliotte"
+177,Kung Fury,2015,0,31,0,"Short, Action, Comedy",David Sandberg
+178,Sakasama no Patema,2013,0,98,0,"Animation, Adventure, Drama",Yasuhiro Yoshiura
+179,Kotonoha no Niwa,2013,0,46,0,"Animation, Drama, Romance",Makoto Shinkai
+180,The Little Prince,2015,0,108,0,"Animation, Adventure, Drama",Mark Osborne
+181,Book of Life,2014,0,95,0,"Animation, Adventure, Comedy",Jorge R. Guti\xc3\xa9rrez
+182,Okami Kodomo no Ame to Yuki,2012,0,117,0,"Animation, Drama, Family",Mamoru Hosoda
+183,What We Do in the Shadows,2014,0,86,0,"Comedy, Fantasy, Horror","Jemaine Clement, Taika Waititi"
+184,The Voorman Problem,2011,0,13,0,"Short, Comedy, Drama",Mark Gill
+185,Relatos salvajes,2014,0,122,0,"Comedy, Drama, Thriller",Dami\xc3\xa1n Szifr\xc3\xb3n
+186,An Inspector Calls,2015,0,87,0,"Drama, Mystery, Thriller",Aisling Walsh
+187,Death Billiards,2013,0,25,0,"Animation, Short, Drama",Yuzuru Tachikawa
+188,Mandariinid,2013,0,87,0,"Drama, War",Zaza Urushadze
+189,12 Angry Men,1957,0,96,0,"Crime, Drama",Sidney Lumet
+190,Princess Kaguya,2013,0,137,0,"Animation, Drama, Fantasy",Isao Takahata
+191,ack et la mecanique du coeur,2013,0,94,0,"Animation, Adventure, Drama","St\xc3\xa9phane Berla, Mathias Malzieu"
+192,Bogowie,2014,0,120,0,"Biography, Drama",Lukasz Palkowski
+193,Durak,2014,0,3,0,"Animation, Short","Bugra Ugur Sofu, Serdar \xc3\x87otuk"
+194,Nie lubie poniedzialku,1971,0,98,0,Comedy,Tadeusz Chmielewski
+195,Filth,2013,0,97,0,"Comedy, Crime, Drama",Jon S. Baird
+196,Omar,2013,0,96,0,"Drama, Thriller",Hany Abu-Assad
+197,Being John Malkovich,1999,0,112,0,"Comedy, Drama, Fantasy",Spike Jonze
+198,The Sting,1973,0,129,0,"Comedy, Crime, Drama",George Roy Hill
+199,The Illusionist,2006,0,110,0,"Drama, Mystery, Romance",Neil Burger
+200,Stranger Than Fiction,2006,0,113,0,"Comedy, Drama, Fantasy",Marc Forster
+201,Cries & Whispers,1972,0,91,0,Drama,Ingmar Bergman
+202,Talk to Her,2002,0,112,0,"Drama, Mystery, Romance",Pedro Almod\xc3\xb3var
+203,Solaris,1972,0,167,0,"Drama, Mystery, Sci-Fi",Andrei Tarkovsky
+204,Time of the Gypsies,1988,0,142,0,"Comedy, Crime, Drama",Emir Kusturica
+205,Vengeance Is Mine,1979,0,139,0,"Crime, Drama",Sh\xc3\xb4hei Imamura
+206,Faa yeung nin wa,2000,0,98,0,"Drama, Romance",Kar-Wai Wong
+207,Narayama bushiko,1983,0,130,0,Drama,Sh\xc3\xb4hei Imamura
+208,Fitzcarraldo,1982,0,158,0,"Adventure, Biography, Drama",Werner Herzog
+209,Czlowiek z marmuru,1977,0,160,0,Drama,Andrzej Wajda
+210,Nostalghia,1983,0,125,0,Drama,Andrei Tarkovsky
+211,Yi Yi,2000,0,173,0,"Drama, Romance",Edward Yang
+212,Das weisse Band - Eine deutsche Kindergeschichte,2009,0,144,0,"Drama, Mystery",Michael Haneke
+213,Ba wang bie ji,1993,0,171,0,"Drama, Music, Romance",Chen Kaige
+214,Ta'm e guilass,1997,0,95,0,Drama,Abbas Kiarostami
+215,Jeder fur sich und Gott gegen alle,1974,0,110,0,"Biography, Drama, History",Werner Herzog
+216,Noz w wodzie,1962,0,94,0,"Drama, Thriller",Roman Polanski
+218,Bei qing cheng shi,1989,0,157,0,"Drama, History",Hsiao-Hsien Hou
+219,Ni Na Bian Ji Dian,2001,0,116,0,"Drama, Romance",Ming-liang Tsai
+220,Chung hing sam lam,1994,0,102,0,"Comedy, Drama, Romance",Kar-Wai Wong
+221,Idi i smotri,1985,0,140,0,"Drama, War",Elem Klimov
+222,Bin-jip,2004,0,88,0,"Crime, Drama, Romance",Ki-duk Kim
+223,L'argent,1983,0,85,0,"Crime, Drama",Robert Bresson
+224,Trzy kolory: czerwony,1994,0,99,0,"Drama, Mystery, Romance",Krzysztof Kieslowski
+225,La notte di San Lorenzo,1982,0,105,0,"Drama, War","Paolo Taviani, Vittorio Taviani"
+226,Nema-ye Nazdik,1990,0,98,0,"Biography, Drama",Abbas Kiarostami
+227,Gu ling jie shao nian sha ren shi jian,1991,0,237,0,"Crime, Drama, Romance",Edward Yang
+228,The Last Emperor,1987,0,163,0,"Biography, Drama, History",Bernardo Bertolucci
+229,Le boucher,1970,0,93,0,"Crime, Thriller",Claude Chabrol
+230,Rosetta,1999,0,95,0,Drama,"Jean-Pierre Dardenne, Luc Dardenne"
+231,Tristana,1970,0,95,0,Drama,Luis Bu\xc3\xb1uel
+232,Lakposhtha parvaz mikonand,2004,0,98,0,"Drama, War",Bahman Ghobadi
+233,Hong gao liang,1987,0,91,0,"Drama, Romance, War",Yimou Zhang
+234,La historia oficial,1985,0,90,0,"Drama, Family, History",Rodrigo Bazaes
+235,Zamani baraye masti asbha,2000,0,80,0,"Drama, War",Bahman Ghobadi
+236,The Piano,1993,0,121,0,"Drama, Music, Romance",Jane Campion
+237,Die Blechtrommel,1979,0,21,0,"Documentary, Short",J\xc3\xb6rg Bauer
+238,Xi meng ren sheng,1993,0,142,0,"Biography, Drama, War",Hsiao-Hsien Hou
+239,Podwojne zycie Weroniki,1991,0,98,0,"Drama, Fantasy, Music",Krzysztof Kieslowski
+240,Otac na sluzbenom putu,1985,0,136,0,Drama,Emir Kusturica
+241,Lamerica,1994,0,116,0,Drama,Gianni Amelio
+242,Jean de Florette,1986,0,120,0,Drama,Claude Berri
+243,Das Leben der Anderen,2006,0,137,0,"Drama, Thriller",Florian Henckel von Donnersmarck
+244,Das Boot,1981,0,149,0,"Adventure, Drama, Thriller",Wolfgang Petersen
+245,Offret,1986,0,149,0,Drama,Andrei Tarkovsky
+246,Amores perros ,2000,0,154,0,"Drama, Thriller",Alejandro G. I\xc3\xb1\xc3\xa1rritu
+247,The Triplets of Belleville,2003,0,78,0,"Animation, Comedy, Drama",Sylvain Chomet
+248,Akira,1988,0,124,0,"Animation, Action, Sci-Fi",Katsuhiro \xc3\x94tomo
+249,Waltz with Bashir,2008,0,90,0,"Animation, Biography, Drama",Ari Folman
+250,Moartea domnului Lazarescu,2005,0,153,0,Drama,Cristi Puiu
+251,Celine et Julie vont en bateau: Phantom Ladies Over Paris,1974,0,193,0,"Comedy, Drama, Fantasy",Jacques Rivette
+252,Le genou de Claire,1970,0,105,0,"Comedy, Drama, Romance",\xc3\x89ric Rohmer
+253,Oldboy,2003,0,120,0,"Drama, Mystery, Thriller",Chan-wook Park
+254,Hana-bi,1997,0,103,0,"Crime, Drama, Romance",Takeshi Kitano
+255,Stroszek,1977,0,115,0,"Comedy, Drama",Werner Herzog
+256,Vozvrashchenie,2003,0,105,0,"Drama, Mystery, Thriller",Egor Konchalovskiy
+257,Spoorloos,1988,0,107,0,"Crime, Mystery, Thriller",George Sluizer
+259,Volver,2006,0,121,0,"Comedy, Crime, Drama",Pedro Almod\xc3\xb3var
+260,Colorful,2010,0,133,0,Drama,Tyler Perry
+261,Blood Diamond,2006,0,143,0,"Adventure, Drama, Thriller",Edward Zwick
+262,Total Eclipse,1995,0,111,0,"Biography, Drama, Romance",Agnieszka Holland
+263,The Quick and the Dead,1995,0,107,0,"Action, Thriller, Western",Sam Raimi
+264,This Boy's Life,1993,0,115,0,"Biography, Drama",Michael Caton-Jones
+265,Scarface,1983,0,170,0,"Crime, Drama",Brian De Palma
+266,Once Upon a Time in America,1984,0,229,0,"Crime, Drama",Sergio Leone
+267,Platoon,1986,0,120,0,"Drama, War",Oliver Stone
+268,Heat,1995,0,170,0,"Action, Crime, Drama",Michael Mann
+269,Rain Man,1988,0,133,0,Drama,Barry Levinson
+270,Cidade de Deus,2002,0,130,0,"Crime, Drama","Fernando Meirelles, K\xc3\xa1tia Lund"
+271,Full Metal Jacket,1987,0,116,0,"Drama, War",Stanley Kubrick
+272,Into the Wild,2007,0,148,0,"Adventure, Biography, Drama",Sean Penn
+273,Sleepers,1996,0,147,0,"Crime, Drama, Thriller",Barry Levinson
+274,The Chorus,2004,0,97,0,"Drama, Music",Christophe Barratier
+275,Shichinin no samurai,1954,0,207,0,Drama,Akira Kurosawa
+276,Carlito's Way,1993,0,144,0,"Crime, Drama",Brian De Palma
+277,Baraka,1992,0,96,0,Documentary,Ron Fricke
+278,Samsara,2011,1,102,0,"Documentary, Music",Ron Fricke
+279,Mystic River,2003,0,138,0,"Crime, Drama, Mystery",Clint Eastwood
+280,A Perfect World,1993,0,138,0,"Crime, Drama, Thriller",Clint Eastwood
+281,The Life of David Gale,2003,0,130,0,"Crime, Drama, Thriller",Alan Parker
+282,Dlug,1999,0,106,0,"Drama, Crime, Thriller",Krzysztof Krauze
+283,Komornik,2005,0,100,0,Drama,Feliks Falk
+284,A Bronx Tale,1993,0,121,0,"Crime, Drama",Robert De Niro
+285,Empire of the Sun,1987,0,153,0,"Drama, History, War",Steven Spielberg
+286,The Untouchables,1987,0,119,0,"Crime, Drama, Thriller",Brian De Palma
+287,Jagten,2012,0,115,0,Drama,Thomas Vinterberg
+288,Primal Fear,1996,0,129,0,"Crime, Drama, Mystery",Gregory Hoblit
+289,Gone with the Wind,1939,0,238,0,"Drama, History, Romance","Victor Fleming, George Cukor, Sam Wood"
+290,The Usual Suspects,1995,0,106,0,"Crime, Drama, Mystery",Bryan Singer
+291,Pirates of the Caribbean: The Course of the Black Pearl,2003,0,143,0,"Action, Adventure, Fantasy",Gore Verbinski
+292,Pirates of the Caribbean: Dead Man's Chest,2006,1,151,0,"Action, Adventure, Fantasy",Gore Verbinski
+293,Pirates of the Caribbean: At World's End,2007,1,169,0,"Action, Adventure, Fantasy",Gore Verbinski
+294,Pirates of the Caribbean: On Stranger Tides,2011,1,136,0,"Action, Adventure, Fantasy",Rob Marshall
+295,Krotki film o zabijaniu,1988,0,84,0,"Crime, Drama",Krzysztof Kieslowski
+296,Casablanca,1942,0,102,0,"Drama, Romance, War",Michael Curtiz
+297,Przesluchanie,1982,0,118,0,"Crime, Drama, Thriller",Ryszard Bugajski
+298,Per qualche dollaro in piu,1965,0,132,0,Western,Sergio Leone
+299,The Reader,2008,0,124,0,"Drama, Romance",Stephen Daldry
+300,The Boondock Saints,1999,0,108,0,"Action, Crime, Thriller",Troy Duffy
+301,Citizen Kane,1941,0,119,0,"Drama, Mystery",Orson Welles
+302,Fracture,2007,0,113,0,"Crime, Drama, Mystery",Gregory Hoblit
+303,Night on Earth,1991,0,129,0,"Comedy, Drama",Jim Jarmusch
+304,Dr. Stragelove or: How I learned to Stop Worrying and Love the Bomb,1964,0,95,0,Comedy,Stanley Kubrick
+305,So weit die Fusse tragen,2001,0,158,0,"Action, Adventure, Drama",Hardy Martins
+306,Adams aebler,2005,0,94,0,"Comedy, Crime, Drama",Anders Thomas Jensen
+307,American Beauty,1999,0,122,0,Drama,Sam Mendes
+308,My Sister's Keeper,2009,0,109,0,Drama,Nick Cassavetes
+310,Men of Honor,2000,0,129,0,"Biography, Drama",George Tillman Jr.
+311,Pay It Forward,2000,0,123,0,Drama,Mimi Leder
+312,Detachment,2011,0,98,0,Drama,Tony Kaye
+313,The Machinist,2004,0,101,0,"Drama, Thriller",Brad Anderson
+314,The Fighter,2010,0,116,0,"Biography, Drama, Sport",David O. Russell
+315,The Last King of Scotland,2006,0,123,0,"Biography, Drama, History",Kevin Macdonald
+316,Murder in the First,1995,0,122,0,"Drama, Thriller",Marc Rocco
+317,Ondskan,2003,0,113,0,Drama,Mikael H\xc3\xa5fstr\xc3\xb6m
+318,Enter the Dragon,1973,0,102,0,"Action, Crime, Drama",Robert Clouse
+319,The Thin Red Line,1998,0,170,0,"Drama, War",Terrence Malick
+320,La Leggenda del pianista sull'oceano,1998,0,165,0,"Drama, Music, Romance",Giuseppe Tornatore
+321,A Time to Kill,1996,0,149,0,"Crime, Drama, Thriller",Joel Schumacher
+322,Die Hard,1988,0,131,0,"Action, Thriller",John McTiernan
+323,Closet Land,1991,0,89,0,"Drama, Thriller",Radha Bharadwaj
+324,The Last of the Mohicans,1992,0,112,0,"Action, Adventure, Drama",Michael Mann
+325,A Single man,2009,0,99,0,Drama,Tom Ford
+326,Spirit: Stallion of the Cimarron,2002,0,83,0,"Animation, Adventure, Family","Kelly Asbury, Lorna Cook"
+327,Sleepy Hollow,1999,0,105,0,"Drama, Horror, Mystery",Tim Burton
+328,"They Shoot Horses, Don't They?",1969,0,129,0,Drama,Sydney Pollack
+329,A Streetcar Named Desire,1951,0,122,0,Drama,Elia Kazan
+330,The Straight Story,1999,0,112,0,"Biography, Drama",David Lynch
+331,Jack Strong,2014,0,128,0,"Action, Biography, Crime",Wladyslaw Pasikowski
+332,The Painted Veil,2006,0,125,0,"Drama, Romance",John Curran
+333,Kumonosu jo,1957,0,110,0,Drama,Akira Kurosawa
+334,The Bridges of Madison County,1995,0,135,0,"Drama, Romance",Clint Eastwood
+335,The Score,2001,0,124,0,"Crime, Drama, Thriller",Frank Oz
+336,25th Hour,2002,0,135,0,Drama,Spike Lee
+337,True Romance,1993,0,120,0,"Action, Crime, Drama",Tony Scott
+338,Dracula,1992,0,128,0,"Fantasy, Horror, Romance",Francis Ford Coppola
+339,Lawless,2012,0,116,0,"Crime, Drama",John Hillcoat
+340,Cape Fear,1991,0,128,0,"Crime, Thriller",Martin Scorsese
+341,Se7en,1995,0,127,0,"Crime, Drama, Mystery",David Fincher
+342,The Negotiator,1998,0,140,0,"Action, Crime, Drama",F. Gary Gray
+343,Lolita,1997,0,137,0,"Drama, Romance",Adrian Lyne
+344,The House of the Spirits,1993,0,140,0,"Drama, Romance",Bille August
+345,Margin Call,2011,0,107,0,"Biography, Drama, Thriller",J.C. Chandor
+346,The Words,2012,0,102,0,"Drama, Mystery, Romance","Brian Klugman, Lee Sternthal"
+347,The Crucible,1996,0,124,0,"Drama, History",Nicholas Hytner
+348,The Railway man,2013,0,116,0,"Biography, Drama, Romance",Jonathan Teplitzky
+349,Girl with a Pearl Earring,2003,0,100,0,"Biography, Drama, Romance",Peter Webber
+350,Easy Virtue,2008,0,97,0,"Comedy, Romance",Stephan Elliott
+351,Legends of the Fall,1994,0,133,0,"Drama, Romance, War",Edward Zwick
+352,The Remains of the Day,1993,0,134,0,"Drama, Romance",James Ivory
+353,Hitchcock,2012,0,98,0,"Biography, Drama",Sacha Gervasi
+354,The Pervert's Guide to Ideology,2012,0,136,0,Documentary,Sophie Fiennes
+355,Jiro Dreams of Sushi,2011,0,81,0,Documentary,David Gelb
+356,We Need to Talk About Kevin,2011,0,112,0,"Drama, Thriller",Lynne Ramsay
+357,True Grit,2010,0,110,0,"Adventure, Drama, Western","Ethan Coen, Joel Coen"
+358,Crazy Heart,2009,0,112,0,"Drama, Music, Romance",Scott Cooper
+359,The Men Who Stare at Goats,2009,0,94,0,"Comedy, War",Grant Heslov
+360,Legend of the Guardians: The Owls of Ga'Hoole,2010,0,97,0,"Animation, Action, Adventure",Zack Snyder
+361,A Serious Man,2009,0,106,0,"Comedy, Drama","Ethan Coen, Joel Coen"
+362,Fantastic Mr. Fox,2009,0,87,0,"Animation, Adventure, Comedy",Wes Anderson
+363,Revolutionary Road,2008,0,119,0,"Drama, Romance",Sam Mendes
+364,Kunsten at graede i kor,2006,0,106,0,"Comedy, Drama",Peter Sch\xc3\xb8nau Fog
+365,"Se, jie",2007,0,157,0,"Drama, Romance, Thriller",Ang Lee
+366,Woman in Gold,2015,0,109,0,"Biography, Drama, History",Simon Curtis
+367,The Hundred-Foot Journey,2014,0,122,0,"Comedy, Drama",Lasse Hallstr\xc3\xb6m
+368,Red,2010,0,111,0,"Action, Comedy, Crime",Robert Schwentke
+369,Touching the Void,2003,0,106,0,"Documentary, Adventure, Drama",Kevin Macdonald
+370,The Experiment,2001,0,120,0,"Drama, Thriller",Oliver Hirschbiegel
+371,Spider,2002,0,98,0,"Drama, Mystery, Thriller",David Cronenberg
+372,The English Patient,1996,0,162,0,"Drama, Romance, War",Anthony Minghella
+373,...And Justice for All,1979,0,119,0,"Crime, Drama, Thriller",Norman Jewison
+374,The Devils' Advocate,1997,0,144,0,"Drama, Mystery, Thriller",Taylor Hackford
+375,Titus,1999,0,162,0,"Drama, History, Thriller",Julie Taymor
+376,Konyok-gorbunok,1947,0,57,0,"Animation, Family, Fantasy",Ivan Ivanov-Vano
+377,The Secret of Kells,2009,0,75,0,"Animation, Adventure, Family","Tomm Moore, Nora Twomey"
+378,Ramayana: The Legend of Prince Rama,1993,0,170,0,"Animation, Adventure, Drama","Ram Mohan, Y\xc3\xbbg\xc3\xb4 Sak\xc3\xb4, Koichi Saski"
+379,The Secret of NIMH,1982,0,82,0,"Animation, Adventure, Drama",Don Bluth
+380,The Many Adventures of Winnie the Pooh,1977,0,74,0,"Animation, Family, Musical","John Lounsbery, Wolfgang Reitherman"
+381,Watership Down,1978,0,101,0,"Animation, Adventure, Drama",Martin Rosen
+382,Ernest et Celestine,2012,0,80,0,"Animation, Comedy, Crime","St\xc3\xa9phane Aubier, Vincent Patar, Benjamin Renner"
+383,The Iron Giant,1999,0,86,0,"Animation, Action, Adventure",Brad Bird
+384,Arrugas,2011,0,89,0,"Animation, Drama",Ignacio Ferreras
+385,The Last Unicorn,1982,0,92,0,"Family, Animation, Fantasy","Jules Bass, Arthur Rankin Jr."
+386,Balto,1995,0,78,0,"Animation, Adventure, Drama",Simon Wells
+387,All Dogs Go to Heaven,1989,0,84,0,"Animation, Comedy, Drama","Don Bluth, Gary Goldman, Dan Kuenster"
+388,All Dogs Go to Heaven 2,1996,1,82,0,"Animation, Adventure, Family","Larry Leker, Paul Sabella"
+389,The Fox and the Hound,1981,0,83,0,"Animation, Adventure, Drama","Ted Berman, Richard Rich, Art Stevens"
+390,Le Chat du Rabbin,2011,0,100,0,"Animation, Comedy, Fantasy","Antoine Delesvaux, Joann Sfar"
+391,Animal Farm,1954,0,72,0,"Animation, Drama","Joy Batchelor, John Halas"
+392,L'illusionniste,2010,0,80,0,"Animation, Drama",Sylvain Chomet
+393,Oliver & Company,1988,0,153,0,"Drama, Family, Musical",Carol Reed
+394,Prince of Egypt,1998,0,99,0,"Animation, Adventure, Biography","Brenda Chapman, Steve Hickner, Simon Wells"
+395,Sinbad: Legend of the Seven Seas,2003,0,86,0,"Animation, Adventure, Comedy","Patrick Gilmore, Tim Johnson"
+396,9,2009,0,79,0,"Animation, Action, Adventure",Shane Acker
+397,Atlantis: The Lost Empire,2001,0,95,0,"Animation, Action, Adventure","Gary Trousdale, Kirk Wise"
+398,Brother Bear,2003,0,85,0,"Animation, Adventure, Family","Aaron Blaise, Robert Walker"
+399,The Nutcracker Prince,1990,0,75,0,"Animation, Adventure, Family",Paul Schibli
+400,Robin Hood,1973,0,83,0,"Animation, Adventure, Comedy",Wolfgang Reitherman
+401,The Great Mouse Detective,1986,0,74,0,"Animation, Adventure, Family","Ron Clements, Burny Mattinson, David Michener, John Musker"
+402,The Aristocats,1970,0,78,0,"Animation, Adventure, Comedy",Wolfgang Reitherman
+403,Nocturna,2007,0,80,0,"Animation, Adventure, Family","Adri\xc3\xa0 Garc\xc3\xada, V\xc3\xadctor Maldonado"
+404,Porwanie w Tiutiurlistanie,1986,0,90,0,"Animation, Adventure, Family","Zdzislaw Kudla, Franciszek Pyter"
+405,Prosze slonia,1978,0,63,0,Animation,Witold Giersz
+406,Thumbelina,1994,0,86,0,"Animation, Family, Fantasy","Don Bluth, Gary Goldman"
+407,Le Tableau,2011,0,76,0,"Animation, Fantasy",Jean-Fran\xc3\xa7ois Laguionie
+408,James and the Giant Peach,1996,0,79,0,"Animation, Adventure, Family",Henry Selick
+409,Fire and Ice,1983,0,81,0,"Animation, Fantasy, Adventure",Ralph Bakshi
+410,Daisy Town,1971,0,71,0,"Animation, Comedy, Western",Ren\xc3\xa9 Goscinny
+411,Rio,2011,0,96,0,"Animation, Adventure, Comedy",Carlos Saldanha
+412,Stranger: Muko Hadan,2007,0,103,0,"Animation, Action, Adventure",Masahiro And\xc3\xb4
+413,Sennen joyu,2001,0,87,0,"Animation, Drama, Fantasy",Satoshi Kon
+414,Tenshi no Tamago,1985,0,114,0,Drama,Shin Togashi
+415,"Yobi, the Five Tailed Fox",2007,0,86,0,"Animation, Fantasy",Sung-gang Lee
+416,Ghost in the Shell,1995,0,83,0,"Animation, Action, Mystery",Mamoru Oshii
+417,Haru,2013,0,60,0,"Animation, Drama, Romance",Ry\xc3\xb4tar\xc3\xb4 Makihara
+418,Hottarake no Shima: Haruka to Mahou no Kagami,2009,0,93,0,"Animation, Action, Adventure",Shinsuke Sato
+419,Junkers Come Here,1995,0,105,0,"Animation, Adventure, Family","Jun\'ichi Sat\xc3\xb4, Rob Bakewell"
+420,Kanojo no Omoide,1995,0,45,0,"Animation, Short, Adventure",K\xc3\xb4ji Morimoto
+421,Kara no Kyoukai: The Garden of Sinners,2007,0,49,0,"Animation, Action, Crime",Ei Aoki
+422,Mind Game,2004,0,103,0,"Animation, Adventure, Comedy","Masaaki Yuasa, K\xc3\xb4ji Morimoto"
+423,Oseam,2003,0,75,0,"Animation, Family",Baek-yeob Seong
+424,Perfect Blue,1998,0,81,0,"Animation, Horror, Music",Satoshi Kon
+425,Steamboy,2004,0,126,0,"Animation, Action, Adventure",Katsuhiro \xc3\x94tomo
+426,Sword of the Stranger,2007,0,103,0,"Animation, Action, Adventure",Masahiro And\xc3\xb4
+427,Pom Poko,1994,0,119,0,"Animation, Comedy, Drama",Isao Takahata
+428,Tori no Uta,2007,0,30,0,"Animation, Short, Drama",Yoshitaka Amano
+429,Wasurenagumo,2012,0,25,0,Animation,Toshihisa Kaiya
+430,Ookami Kodomo no Ame to Yuki,2012,0,117,0,"Animation, Drama, Family",Mamoru Hosoda
+431,Chumon no ooi ryori-ten,1992,0,19,0,"Animation, Short, Fantasy",Tadanari Okamoto
+432,Nerawareta Gakuen,2012,0,90,0,Sci-Fi,Nobuhiko \xc3\x94bayashi
+433,My Neighbours the Yamadas,1999,0,104,0,"Animation, Comedy, Family",Isao Takahata
+434,Umi ga Kikoeru,1993,0,72,0,"Animation, Drama, Romance",Tomomi Mochizuki
+435,Miyamoto Musashi: Souken ni Haseru Yume,2009,0,72,0,"Animation, Action",Mizuho Nishikubo
+436,Kanashimi no Belladonna,1973,0,93,0,"Animation, Drama, Fantasy",Eiichi Yamamoto
+437,Mai Mai Shinko to Sennen no Mahou,2009,0,93,0,"Animation, Drama",Sunao Katabuchi
+438,Manie-Manie Meikyu Monogatari,1987,0,50,0,"Animation, Adventure, Fantasy","Yoshiaki Kawajiri, Rintaro, Katsuhiro \xc3\x94tomo"
+439,Furusato Japan,2007,0,96,0,"Animation, Drama, History",Akio Nishizawa
+440,Taiyou no Ouji: Horus no Daibouken,1968,0,88,0,Animation,Isao Takahata
+441,Little Nemo: Adventures in Slumberland,1989,0,85,0,"Family, Animation, Adventure","Masami Hata, William T. Hurtz"
+442,Gusuko Budori no Denki,2012,0,108,0,Animation,Gisabur\xc3\xb4 Sugii
+443,The Chorus,2004,0,97,0,"Drama, Music",Christophe Barratier
