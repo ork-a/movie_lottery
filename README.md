@@ -1,5 +1,8 @@
 # movie_lottery
-first own project, exercise with classes
+first own project, exercise with classes + IMDB web scrapping
+
+How to: 
+DL all files and launch UI.py.
 
 WIP
 App for undecided people who managed to choose movies they want to watch, but are not able to choose from their list one movie for the evening. 
