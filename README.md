@@ -1,11 +1,11 @@
-# movie_lottery
+# movie_lottery // Python 3.4.3
 first own project, exercise with classes + IMDB web scrapping
 
 How to: 
 DL all files and launch UI.py.
 
 WIP
-App for undecided people who managed to choose movies they want to watch, but are not able to choose from their list one movie for the evening. 
+App for undecided people who managed to choose whole bunch of movies they want to watch... but are not able to choose from their list ONE movie for the evening. Maybe it'll save some relationships from utter ruin. ;)
 
 So far:
 - read and save from/to .csv,
